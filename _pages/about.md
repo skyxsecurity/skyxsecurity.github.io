@@ -49,13 +49,13 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 - `WWW'24` **RecurScan: Detecting Recurring Vulnerabilities in PHP Web Applications**  
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhao Bai, Lei Zhang, Xin Tan, Min Yang.  
   In Proceedings of the 33rd ACM Web Conference (**WWW**), May, 2024.      
-  [[PDF](/papers/recurscan-www24.pdf)]  
+  [[PDF](/papers/recurscan-www24.pdf)]
   [[Code](https://github.com/seclab-fudan/RecurScan)]
 
 - `ASE'22` **Precise (Un)Affected Version Analysis for Web Vulnerabilities**  
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhan Luo, Xiangyu Mao, Min Yang.  
   In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering (**ASE**), October, 2022.  
-  [[PDF](/papers/afv-ase22.pdf)]  
+  [[PDF](/papers/afv-ase22.pdf)]
   [[Code](https://github.com/seclab-fudan/AFV)]
 
 - `USENIX SEC'22` **Backporting Security Patches of Web Applications: A Prototype Design and Implementation on Injection Vulnerability Patches**  
