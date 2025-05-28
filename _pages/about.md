@@ -27,6 +27,10 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 - [*2025.03*] &nbsp;🎉 One paper accepted by **S&P 2025**!
 - [*2024.09*] &nbsp;🎉 One paper accepted by **S&P 2025**!
 
+# 📖 Background
+- *2024.11 - now*, Postdoc, The Hong Kong Polytechnic University, Department of Computing.
+- *2019.09 - 2024.06*, Ph.D, Fudan University, School of Computer Science.
+- *2015.09 - 2019.06*, B.Eng, China University of Mining and Technology, School of Computer Science.
 
 # 📝 Publications 
 
@@ -63,10 +67,6 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
   In *Proceedings of the 31st USENIX Security Symposium*, August, 2022.  
   [[PDF](/papers/skyport-security22.pdf)]
 
-# 📖 Background
-- *2024.11 - now*, Postdoc, The Hong Kong Polytechnic University, Department of Computing.
-- *2019.09 - 2024.06*, Ph.D, Fudan University, School of Computer Science.
-- *2015.09 - 2019.06*, B.Eng, China University of Mining and Technology, School of Computer Science.
 
 # 🎖 Honors and Awards
 - *2024*, [Huawei TopMinds Program Offer](https://career.huawei.com/reccampportal/portal5/topminds.html)

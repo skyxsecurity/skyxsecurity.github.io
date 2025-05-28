@@ -6,14 +6,14 @@ main:
   - title: "News"
     url: "/#-news"
 
+  - title: "Background"
+    url: "/#-background"
+
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-
-  - title: "Background"
-    url: "/#-background"
 
   - title: "Skill Competitions"
     url: "/#-skill-competitions"
