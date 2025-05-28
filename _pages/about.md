@@ -41,23 +41,23 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
   **<font color="#B00C00">&#9733; Distinguished Paper Award (<1% submission)</font>**, Presented at **BlackHat USA 2025** [[Talk Abstract](https://www.blackhat.com/us-25/briefings/schedule/#detecting-taint-style-vulnerabilities-in-microservice-structured-web-applications-46427)]
   [[PDF](/papers/mscan-oakland25.pdf)]
 
-- `S&P'25` **MOCGuard: Automatically Detecting Missing-Owner-Check Vulnerabilities in Java Web Applications**
+- `S&P'25` **MOCGuard: Automatically Detecting Missing-Owner-Check Vulnerabilities in Java Web Applications** 
   Fengyu Liu<sup>\*</sup>, <span style="color:blue">Youkun Shi<sup>\*</sup></span>, Yuan Zhang, Guangliang Yang, Enhao Li, Min Yang (*\* co-first authors*).  
   In *Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P)*, May 2025.    
   [[PDF](/papers/mocguard-oakland25.pdf)] 
 
-- `WWW'24` **RecurScan: Detecting Recurring Vulnerabilities in PHP Web Applications**  
-  <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhao Bai, Lei Zhang, Xin Tan, Min Yang
-  In Proceedings of the 33rd ACM Web Conference (**WWW**), May, 2024.     
+- `WWW'24` **RecurScan: Detecting Recurring Vulnerabilities in PHP Web Applications**   
+  <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhao Bai, Lei Zhang, Xin Tan, Min Yang.  
+  In Proceedings of the 33rd ACM Web Conference (**WWW**), May, 2024.      
   [[PDF](/papers/recurscan-www24.pdf)]
 
-- `ASE'22` **Precise (Un)Affected Version Analysis for Web Vulnerabilities** 
-  <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhan Luo, Xiangyu Mao, Min Yang
-  In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering (**ASE**), October, 2022. 
+- `ASE'22` **Precise (Un)Affected Version Analysis for Web Vulnerabilities**  
+  <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhan Luo, Xiangyu Mao, Min Yang.  
+  In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering (**ASE**), October, 2022.  
   [[PDF](/papers/afv-ase22.pdf)]
 
-- `USENIX SEC'22` **Backporting Security Patches of Web Applications: A Prototype Design and Implementation on Injection Vulnerability Patches** 
-  <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhan Luo, Xiangyu Mao, Yinzhi Cao, Ziwen Wang, Yudi Zhao, Zongan Huang, Min Yang
+- `USENIX SEC'22` **Backporting Security Patches of Web Applications: A Prototype Design and Implementation on Injection Vulnerability Patches**  
+  <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhan Luo, Xiangyu Mao, Yinzhi Cao, Ziwen Wang, Yudi Zhao, Zongan Huang, Min Yang. 
   In Proceedings of the 31st USENIX Security Symposium (**USENIX SEC**), August, 2022.   
   [[PDF](/papers/skyport-security22.pdf)]
 
