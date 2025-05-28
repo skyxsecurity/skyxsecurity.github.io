@@ -57,7 +57,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
   [[PDF](/papers/afv-ase22.pdf)]
 
 - `USENIX SEC'22` **Backporting Security Patches of Web Applications: A Prototype Design and Implementation on Injection Vulnerability Patches**  
-  <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhan Luo, Xiangyu Mao, Yinzhi Cao, Ziwen Wang, Yudi Zhao, Zongan Huang, Min Yang. 
+  <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhan Luo, Xiangyu Mao, Yinzhi Cao, Ziwen Wang, Yudi Zhao, Zongan Huang, Min Yang.  
   In Proceedings of the 31st USENIX Security Symposium (**USENIX SEC**), August, 2022.   
   [[PDF](/papers/skyport-security22.pdf)]
 
