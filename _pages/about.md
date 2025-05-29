@@ -21,11 +21,11 @@ Youkun Shi is a Postdoctoral Fellow in the Department of computing at The Hong K
 Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, named Whitzard. The team has participated in numerous prestigious world-wide CTF competitions, achieving commendable rankings.
 
 # 🔥 News
-- [*2025.05*] &nbsp;🎉 One Talk accepted by **BlackHat USA 2025**!
-- [*2025.05*] &nbsp;🎉 Our paper received <span style="color:#B00C00">**Distinguished Paper Award**</span> at IEEE S&P 2025!
-- [*2025.03*] &nbsp;🎉 One paper accepted by **CCS 2025**!
-- [*2025.03*] &nbsp;🎉 One paper accepted by **S&P 2025**!
-- [*2024.09*] &nbsp;🎉 One paper accepted by **S&P 2025**!
+- [*2025.05*] &nbsp;🎉 Two papers accepted by [**USENIX SEC 2025**](https://www.usenix.org/conference/usenixsecurity25). 
+- [*2025.05*] &nbsp;🎉 One Talk accepted by [**BlackHat USA 2025**](https://www.blackhat.com/us-25/)!
+- [*2025.05*] &nbsp;🎉 Our paper received <span style="color:#B00C00">**Distinguished Paper Award**</span> at [**IEEE S&P 2025**](https://sp2025.ieee-security.org/)!
+- [*2025.03*] &nbsp;🎉 One paper accepted by [**ACM CCS 2025**](https://www.sigsac.org/ccs/CCS2025/)!
+- [*2025.03*] &nbsp;🎉 Two papers accepted by [**IEEE S&P 2025**](https://sp2025.ieee-security.org/)!
 
 # 📖 Background
 - *2024.11 - now*, Postdoc, The Hong Kong Polytechnic University, Department of Computing.
