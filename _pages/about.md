@@ -16,12 +16,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Youkun Shi is a Postdoctoral Fellow in the Department of computing at The Hong Kong Polytechnic University, working under the supervision of *[**Prof. Daniel Xiapu Luo**](https://www4.comp.polyu.edu.hk/~csxluo/)*. He earned the Ph.D. degree in June 2024 from Fudan University, advised by *[**Prof. Yuan Zhang**](https://yuanxzhang.github.io/)* and *[**Prof. Min Yang**](https://scholar.google.com/citations?user=UnKf9FIAAAAJ&hl=en)*. His research focuses on system security, especially web security. He is skilled at applying advanced techniques, such as program analysis and LLM-assisted analysis, to automate the vulnerability assessment. To date, he has published 8 papers in top-tier conferences and has discovered numerous severe vulnerabilities, assigned with 331 CVEs.
+Youkun Shi is a Postdoctoral Fellow in the Department of computing at The Hong Kong Polytechnic University, working under the supervision of *[**Prof. Daniel Xiapu Luo**](https://www4.comp.polyu.edu.hk/~csxluo/)*. He earned the Ph.D. degree in June 2024 from Fudan University, advised by *[**Prof. Yuan Zhang**](https://yuanxzhang.github.io/)* and *[**Prof. Min Yang**](https://scholar.google.com/citations?user=UnKf9FIAAAAJ&hl=en)*. His research focuses on system security, especially web security. He is skilled at applying advanced techniques, such as program analysis and LLM-assisted analysis, to automate the vulnerability assessment. To date, he has published 5 first-author papers in top-tier conferences and has discovered numerous severe vulnerabilities, assigned with 331 CVEs.
 
 Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, named Whitzard. The team has participated in numerous prestigious world-wide CTF competitions, achieving commendable rankings.
 
 # 🔥 News
-- [*2025.05*] &nbsp;🎉 Two papers accepted by [**USENIX Security 2025**](https://www.usenix.org/conference/usenixsecurity25). 
+- [*2025.05*] &nbsp;🎉 Two papers accepted by [**USENIX Security 2025**](https://www.usenix.org/conference/usenixsecurity25)! 
 - [*2025.05*] &nbsp;🎉 One talk accepted by [**BlackHat USA 2025**](https://www.blackhat.com/us-25/)!
 - [*2025.05*] &nbsp;🎉 Our vulnerability detection work on microservice-structured web apps received <span style="color:#B00C00">**Distinguished Paper Award**</span> at [**IEEE S&P 2025**](https://sp2025.ieee-security.org/)!
 - [*2025.03*] &nbsp;🎉 One paper accepted by [**ACM CCS 2025**](https://www.sigsac.org/ccs/CCS2025/)!
@@ -33,6 +33,15 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 - *2015.09 - 2019.06*, B.Eng, China University of Mining and Technology, School of Computer Science.
 
 # 📝 Publications 
+1. `USENIX SEC'25` **XSSky: Detecting XSS Vulnerabilities through Local Path-Persistent Fuzzing**  
+  <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhao Bai, Feng Xue, Jiarun Dai, Fengyu Liu, Lei Zhang, Xiapu Luo, Min Yang.   
+  In *Proceedings of the 34th USENIX Security Symposium (USENIX SEC)*, August, 2025. (<span style="color:#B00C00">CCF-A</span>)  
+  [to appear]  
+
+1. `USENIX SEC'25` **Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents**  
+  Fengyu Liu, Yuan Zhang, Jiaqi Luo, Jiarun Dai, Tian Chen, Letian Yuan, Zhengmin Yu, <span style="color:blue">Youkun Shi</span>, Ke Li, Chengyuan Zhou, Hao Chen, Min Yang.  
+  In *Proceedings of the 34th USENIX Security Symposium (USENIX SEC)*, August, 2025. (<span style="color:#B00C00">CCF-A</span>)  
+  [to appear]  
 
 1. `CCS'25` **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications**   
   Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, <span style="color:blue">Youkun Shi</span>, Qianheng Wang, Chenlin Wang, Zihan Lin, Min Yang.  
@@ -74,8 +83,6 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
   [[Slides](https://www.usenix.org/system/files/sec22_slides-shi.pdf)]
   [[Video](https://www.youtube.com/watch?v=RmH3bGB7gEo&t=11s)]
   [[DOI](https://www.usenix.org/conference/usenixsecurity22/presentation/shi)]
-
-  
 
 # 🎖 Honors and Awards
 - *2024*, [Huawei TopMinds Program Offer](https://career.huawei.com/reccampportal/portal5/topminds.html)
