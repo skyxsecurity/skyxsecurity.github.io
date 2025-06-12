@@ -68,7 +68,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhao Bai, Lei Zhang, Xin Tan, Min Yang.  
   In *Proceedings of the 33rd ACM Web Conference (WWW)*, May, 2024.   
   [[PDF](/papers/recurscan-www24.pdf)]
-  <span style="color:#B00C00">[*CCF-A*]</span>
+  <span style="color:#B00C00">[*CCF-A, Top Web Research Conference*]</span>
 
 1. `ASE'22` **Precise (Un)Affected Version Analysis for Web Vulnerabilities**  
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhan Luo, Xiangyu Mao, Min Yang.  
