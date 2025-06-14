@@ -33,29 +33,13 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 - *2015.09 - 2019.06*, B.Eng, China University of Mining and Technology, School of Computer Science.
 
 # 📝 Publications 
+
+## Lead Publications
+
 1. `USENIX SEC'25` **XSSky: Detecting XSS Vulnerabilities through Local Path-Persistent Fuzzing**  
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhao Bai, Feng Xue, Jiarun Dai, Fengyu Liu, Lei Zhang, Xiapu Luo, Min Yang.   
   In *Proceedings of the 34th USENIX Security Symposium (USENIX SEC)*, August, 2025.   
   [to appear]
-  <span style="color:#B00C00">[*CCF-A, Security BIG4 Conference*]</span>
-
-1. `USENIX SEC'25` **Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents**  
-  Fengyu Liu, Yuan Zhang, Jiaqi Luo, Jiarun Dai, Tian Chen, Letian Yuan, Zhengmin Yu, <span style="color:blue">Youkun Shi</span>, Ke Li, Chengyuan Zhou, Hao Chen, Min Yang.  
-  In *Proceedings of the 34th USENIX Security Symposium (USENIX SEC)*, August, 2025.   
-  [to appear]
-  <span style="color:#B00C00">[*CCF-A, Security BIG4 Conference*]</span>
-
-1. `CCS'25` **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications**   
-  Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, <span style="color:blue">Youkun Shi</span>, Qianheng Wang, Chenlin Wang, Zihan Lin, Min Yang.  
-  In *Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS)*, October 2025.   
-  [to appear]
-  <span style="color:#B00C00">[*CCF-A, Security BIG4 Conference*]</span>
-
-1. `S&P'25` **Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications**  
-  Fengyu Liu, Yuan Zhang, Tian Chen, <span style="color:blue">Youkun Shi</span>, Guangliang Yang, Zihan Lin, Min Yang, Junyao He, Qi Li.  
-  In *Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P)*, May 2025.    
-  **<font color="#B00C00">&#9733; Distinguished Paper Award (<1% submission)</font>**, Presented at **BlackHat USA 2025** [[Talk Abstract](https://www.blackhat.com/us-25/briefings/schedule/#detecting-taint-style-vulnerabilities-in-microservice-structured-web-applications-46427)]  
-  [[PDF](/papers/mscan-oakland25.pdf)]
   <span style="color:#B00C00">[*CCF-A, Security BIG4 Conference*]</span>
 
 1. `S&P'25` **MOCGuard: Automatically Detecting Missing-Owner-Check Vulnerabilities in Java Web Applications**  
@@ -81,6 +65,29 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
   In *Proceedings of the 31st USENIX Security Symposium (USENIX SEC)*, August, 2022.   
   [[PDF](/papers/skyport-security22.pdf)]
   <span style="color:#B00C00">[*CCF-A, Security BIG4 Conference*]</span>
+
+
+## Other Publications
+
+1. `USENIX SEC'25` **Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents**  
+  Fengyu Liu, Yuan Zhang, Jiaqi Luo, Jiarun Dai, Tian Chen, Letian Yuan, Zhengmin Yu, <span style="color:blue">Youkun Shi</span>, Ke Li, Chengyuan Zhou, Hao Chen, Min Yang.  
+  In *Proceedings of the 34th USENIX Security Symposium (USENIX SEC)*, August, 2025.   
+  [to appear]
+  <span style="color:#B00C00">[*CCF-A, Security BIG4 Conference*]</span>
+
+1. `CCS'25` **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications**   
+  Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, <span style="color:blue">Youkun Shi</span>, Qianheng Wang, Chenlin Wang, Zihan Lin, Min Yang.  
+  In *Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS)*, October 2025.   
+  [to appear]
+  <span style="color:#B00C00">[*CCF-A, Security BIG4 Conference*]</span>
+
+1. `S&P'25` **Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications**  
+  Fengyu Liu, Yuan Zhang, Tian Chen, <span style="color:blue">Youkun Shi</span>, Guangliang Yang, Zihan Lin, Min Yang, Junyao He, Qi Li.  
+  In *Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P)*, May 2025.    
+  **<font color="#B00C00">&#9733; Distinguished Paper Award (<1% submission)</font>**, Presented at **BlackHat USA 2025** [[Talk Abstract](https://www.blackhat.com/us-25/briefings/schedule/#detecting-taint-style-vulnerabilities-in-microservice-structured-web-applications-46427)]  
+  [[PDF](/papers/mscan-oakland25.pdf)]
+  <span style="color:#B00C00">[*CCF-A, Security BIG4 Conference*]</span>
+
 
 # 🎖 Honors and Awards
 - *2024*, [Huawei TopMinds Program Offer](https://career.huawei.com/reccampportal/portal5/topminds.html)
