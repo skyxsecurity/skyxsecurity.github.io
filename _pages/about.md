@@ -34,7 +34,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 # 📝 Publications 
 
-## Lead Publications
+## 👍🏻 Lead Publications
 
 1. `USENIX SEC'25` **XSSky: Detecting XSS Vulnerabilities through Local Path-Persistent Fuzzing**  
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhao Bai, Feng Xue, Jiarun Dai, Fengyu Liu, Lei Zhang, Xiapu Luo, Min Yang.   
@@ -67,7 +67,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
   <span style="color:#B00C00">[*CCF-A, Security BIG4 Conference*]</span>
 
 
-## Other Publications
+## 🤝 Other Publications
 
 1. `USENIX SEC'25` **Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents**  
   Fengyu Liu, Yuan Zhang, Jiaqi Luo, Jiarun Dai, Tian Chen, Letian Yuan, Zhengmin Yu, <span style="color:blue">Youkun Shi</span>, Ke Li, Chengyuan Zhou, Hao Chen, Min Yang.  
