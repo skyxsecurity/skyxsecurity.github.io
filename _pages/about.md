@@ -46,24 +46,24 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
   Fengyu Liu<sup>\*</sup>, <span style="color:blue">Youkun Shi<sup>\*</sup></span>, Yuan Zhang, Guangliang Yang, Enhao Li, Min Yang (*\* co-first authors*).  
   In *Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P)*, May 2025.   
   [<span class="pdf">PDF</span>](/papers/mocguard-oakland25.pdf)
-  <span style="color:#B00C00">[*CCF-A, Security BIG4 Conference*]</span>
+  <span class="info">CCF-A, Security BIG4 Conference</span>
 
 1. `WWW'24` **RecurScan: Detecting Recurring Vulnerabilities in PHP Web Applications**  
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhao Bai, Lei Zhang, Xin Tan, Min Yang.  
   In *Proceedings of the 33rd ACM Web Conference (WWW)*, May, 2024.   
-  [[PDF](/papers/recurscan-www24.pdf)]
+  [<span class="pdf">PDF</span>](/papers/recurscan-www24.pdf)
   <span style="color:#B00C00">[*CCF-A, Top Web Research Conference*]</span>
 
 1. `ASE'22` **Precise (Un)Affected Version Analysis for Web Vulnerabilities**  
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhan Luo, Xiangyu Mao, Min Yang.  
   In *Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering (ASE)*, October, 2022.   
-  [[PDF](/papers/afv-ase22.pdf)]
+  [<span class="pdf">PDF</span>](/papers/afv-ase22.pdf)
   <span style="color:#B00C00">[*CCF-A, Top Software Engineering Conference*]</span>
 
 1. `USENIX SEC'22` **Backporting Security Patches of Web Applications: A Prototype Design and Implementation on Injection Vulnerability Patches**  
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhan Luo, Xiangyu Mao, Yinzhi Cao, Ziwen Wang, Yudi Zhao, Zongan Huang, Min Yang.  
   In *Proceedings of the 31st USENIX Security Symposium (USENIX SEC)*, August, 2022.   
-  [[PDF](/papers/skyport-security22.pdf)]
+  [<span class="pdf">PDF</span>](/papers/skyport-security22.pdf)
   <span style="color:#B00C00">[*CCF-A, Security BIG4 Conference*]</span>
 
 
@@ -85,7 +85,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
   Fengyu Liu, Yuan Zhang, Tian Chen, <span style="color:blue">Youkun Shi</span>, Guangliang Yang, Zihan Lin, Min Yang, Junyao He, Qi Li.  
   In *Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P)*, May 2025.    
   **<font color="#B00C00">&#9733; Distinguished Paper Award (<1% submission)</font>**, Presented at **BlackHat USA 2025** [[Talk Abstract](https://www.blackhat.com/us-25/briefings/schedule/#detecting-taint-style-vulnerabilities-in-microservice-structured-web-applications-46427)]  
-  [[PDF](/papers/mscan-oakland25.pdf)]
+  [<span class="pdf">PDF</span>](/papers/mscan-oakland25.pdf)
   <span style="color:#B00C00">[*CCF-A, Security BIG4 Conference*]</span>
 
 
