@@ -36,56 +36,48 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 ## 👍🏻 Lead Publications
 
-1. `USENIX SEC'25` **XSSky: Detecting XSS Vulnerabilities through Local Path-Persistent Fuzzing**  
+1. `USENIX SEC'25` **XSSky: Detecting XSS Vulnerabilities through Local Path-Persistent Fuzzing**[<span class="pdf">PDF</span>]()  
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhao Bai, Feng Xue, Jiarun Dai, Fengyu Liu, Lei Zhang, Xiapu Luo, Min Yang.   
   In *Proceedings of the 34th USENIX Security Symposium (USENIX SEC)*, August, 2025.   
-  [to appear]
   <span style="color:#B00C00">[*CCF-A, Security BIG4 Conference*]</span>
 
-1. `S&P'25` **MOCGuard: Automatically Detecting Missing-Owner-Check Vulnerabilities in Java Web Applications**  
+1. `S&P'25` **MOCGuard: Automatically Detecting Missing-Owner-Check Vulnerabilities in Java Web Applications**[<span class="pdf">PDF</span>](/papers/mocguard-oakland25.pdf)  
   Fengyu Liu<sup>\*</sup>, <span style="color:blue">Youkun Shi<sup>\*</sup></span>, Yuan Zhang, Guangliang Yang, Enhao Li, Min Yang (*\* co-first authors*).  
   In *Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P)*, May 2025.   
-  [<span class="pdf">PDF</span>](/papers/mocguard-oakland25.pdf)
-  <span class="info">CCF-A, Security BIG4 Conference</span>
+  <span style="color:#B00C00">[*CCF-A, Security BIG4 Conference*]</span>
 
-1. `WWW'24` **RecurScan: Detecting Recurring Vulnerabilities in PHP Web Applications**  
+1. `WWW'24` **RecurScan: Detecting Recurring Vulnerabilities in PHP Web Applications**[<span class="pdf">PDF</span>](/papers/recurscan-www24.pdf)  
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhao Bai, Lei Zhang, Xin Tan, Min Yang.  
   In *Proceedings of the 33rd ACM Web Conference (WWW)*, May, 2024.   
-  [<span class="pdf">PDF</span>](/papers/recurscan-www24.pdf)
   <span style="color:#B00C00">[*CCF-A, Top Web Research Conference*]</span>
 
-1. `ASE'22` **Precise (Un)Affected Version Analysis for Web Vulnerabilities**  
+1. `ASE'22` **Precise (Un)Affected Version Analysis for Web Vulnerabilities**[<span class="pdf">PDF</span>](/papers/afv-ase22.pdf)  
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhan Luo, Xiangyu Mao, Min Yang.  
   In *Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering (ASE)*, October, 2022.   
-  [<span class="pdf">PDF</span>](/papers/afv-ase22.pdf)
   <span style="color:#B00C00">[*CCF-A, Top Software Engineering Conference*]</span>
 
-1. `USENIX SEC'22` **Backporting Security Patches of Web Applications: A Prototype Design and Implementation on Injection Vulnerability Patches**  
+1. `USENIX SEC'22` **Backporting Security Patches of Web Applications: A Prototype Design and Implementation on Injection Vulnerability Patches**[<span class="pdf">PDF</span>](/papers/skyport-security22.pdf)  
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhan Luo, Xiangyu Mao, Yinzhi Cao, Ziwen Wang, Yudi Zhao, Zongan Huang, Min Yang.  
   In *Proceedings of the 31st USENIX Security Symposium (USENIX SEC)*, August, 2022.   
-  [<span class="pdf">PDF</span>](/papers/skyport-security22.pdf)
   <span style="color:#B00C00">[*CCF-A, Security BIG4 Conference*]</span>
 
 
 ## 🤝 Other Publications
 
-1. `USENIX SEC'25` **Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents**  
+1. `USENIX SEC'25` **Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents**[<span class="pdf">PDF</span>]()  
   Fengyu Liu, Yuan Zhang, Jiaqi Luo, Jiarun Dai, Tian Chen, Letian Yuan, Zhengmin Yu, <span style="color:blue">Youkun Shi</span>, Ke Li, Chengyuan Zhou, Hao Chen, Min Yang.  
   In *Proceedings of the 34th USENIX Security Symposium (USENIX SEC)*, August, 2025.   
-  [to appear]
   <span style="color:#B00C00">[*CCF-A, Security BIG4 Conference*]</span>
 
-1. `CCS'25` **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications**   
+1. `CCS'25` **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications**[<span class="pdf">PDF</span>]()   
   Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, <span style="color:blue">Youkun Shi</span>, Qianheng Wang, Chenlin Wang, Zihan Lin, Min Yang.  
   In *Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS)*, October 2025.   
-  [to appear]
   <span style="color:#B00C00">[*CCF-A, Security BIG4 Conference*]</span>
 
-1. `S&P'25` **Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications**  
+1. `S&P'25` **Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications**[<span class="pdf">PDF</span>](/papers/mscan-oakland25.pdf)  
   Fengyu Liu, Yuan Zhang, Tian Chen, <span style="color:blue">Youkun Shi</span>, Guangliang Yang, Zihan Lin, Min Yang, Junyao He, Qi Li.  
   In *Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P)*, May 2025.    
   **<font color="#B00C00">&#9733; Distinguished Paper Award (<1% submission)</font>**, Presented at **BlackHat USA 2025** [[Talk Abstract](https://www.blackhat.com/us-25/briefings/schedule/#detecting-taint-style-vulnerabilities-in-microservice-structured-web-applications-46427)]  
-  [<span class="pdf">PDF</span>](/papers/mscan-oakland25.pdf)
   <span style="color:#B00C00">[*CCF-A, Security BIG4 Conference*]</span>
 
 
