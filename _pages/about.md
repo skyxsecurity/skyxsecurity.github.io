@@ -45,7 +45,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 1. `S&P'25` **MOCGuard: Automatically Detecting Missing-Owner-Check Vulnerabilities in Java Web Applications**  
   Fengyu Liu<sup>\*</sup>, <span style="color:blue">Youkun Shi<sup>\*</sup></span>, Yuan Zhang, Guangliang Yang, Enhao Li, Min Yang (*\* co-first authors*).  
   In *Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P)*, May 2025.   
-  [[PDF](/papers/mocguard-oakland25.pdf)] 
+  [<span class="pdf">PDF</span>](/papers/mocguard-oakland25.pdf)
   <span style="color:#B00C00">[*CCF-A, Security BIG4 Conference*]</span>
 
 1. `WWW'24` **RecurScan: Detecting Recurring Vulnerabilities in PHP Web Applications**  
