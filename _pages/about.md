@@ -74,10 +74,10 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
   In *Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS)*, October 2025.   
   <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
-1. `S&P'25` **Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications** [<span class="pdf">PDF</span>](/papers/mscan-oakland25.pdf)  
+1. `S&P'25` **Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications** [<span class="pdf">PDF</span>](/papers/mscan-oakland25.pdf) <span class="award">Distinguished Paper Award</span>  
   Fengyu Liu, Yuan Zhang, Tian Chen, <span style="color:blue">Youkun Shi</span>, Guangliang Yang, Zihan Lin, Min Yang, Junyao He, Qi Li.  
   In *Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P)*, May 2025.    
-  **<font color="#B00C00">&#9733; Distinguished Paper Award (<1% submission)</font>**, Presented at **BlackHat USA 2025** [[Talk Abstract](https://www.blackhat.com/us-25/briefings/schedule/#detecting-taint-style-vulnerabilities-in-microservice-structured-web-applications-46427)]  
+  Presented at **BlackHat USA 2025** [[Talk Abstract](https://www.blackhat.com/us-25/briefings/schedule/#detecting-taint-style-vulnerabilities-in-microservice-structured-web-applications-46427)]  
   <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
 
