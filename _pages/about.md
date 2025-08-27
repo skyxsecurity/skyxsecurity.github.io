@@ -28,15 +28,15 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 - [*2025.03*] &nbsp;🎉 Two papers accepted by [**IEEE S&P 2025**](https://sp2025.ieee-security.org/)!
 
 # 📖 Background
-- *2024.11 - now*, Postdoc, The Hong Kong Polytechnic University, Department of Computing.
-- *2019.09 - 2024.06*, Ph.D, Fudan University, School of Computer Science.
-- *2015.09 - 2019.06*, B.Eng, China University of Mining and Technology, School of Computer Science.
+- *2024 - now*, Postdoc, The Hong Kong Polytechnic University, Department of Computing.
+- *2019 - 2024*, Ph.D, Fudan University, School of Computer Science.
+- *2015 - 2019*, B.Eng, China University of Mining and Technology, School of Computer Science.
 
 # 📝 Publications 
 
 ## 👍🏻 Lead Publications
 
-1. `USENIX SEC'25` **XSSky: Detecting XSS Vulnerabilities through Local Path-Persistent Fuzzing** [<span class="pdf">PDF</span>]()     
+1. `USENIX SEC'25` **XSSky: Detecting XSS Vulnerabilities through Local Path-Persistent Fuzzing** [<span class="pdf">PDF</span>](/papers/xssky-security25.pdf)     
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhao Bai, Feng Xue, Jiarun Dai, Fengyu Liu, Lei Zhang, Xiapu Luo, Min Yang.   
   In *Proceedings of the 34th USENIX Security Symposium (USENIX SEC)*, August, 2025.   
   <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
@@ -64,14 +64,14 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 ## 🤝 Other Publications
 
-1. `USENIX SEC'25` **Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents** [<span class="pdf">PDF</span>]()  
-  Fengyu Liu, Yuan Zhang, Jiaqi Luo, Jiarun Dai, Tian Chen, Letian Yuan, Zhengmin Yu, <span style="color:blue">Youkun Shi</span>, Ke Li, Chengyuan Zhou, Hao Chen, Min Yang.  
-  In *Proceedings of the 34th USENIX Security Symposium (USENIX SEC)*, August, 2025.   
-  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
-
 1. `CCS'25` **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications** [<span class="pdf">PDF</span>]()   
   Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, <span style="color:blue">Youkun Shi</span>, Qianheng Wang, Chenlin Wang, Zihan Lin, Min Yang.  
   In *Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS)*, October 2025.   
+  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
+
+1. `USENIX SEC'25` **Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents** [<span class="pdf">PDF</span>](/papers/agentfuzz-security25.pdf)  
+  Fengyu Liu, Yuan Zhang, Jiaqi Luo, Jiarun Dai, Tian Chen, Letian Yuan, Zhengmin Yu, <span style="color:blue">Youkun Shi</span>, Ke Li, Chengyuan Zhou, Hao Chen, Min Yang.  
+  In *Proceedings of the 34th USENIX Security Symposium (USENIX SEC)*, August, 2025.   
   <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
 1. `S&P'25` **Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications** [<span class="pdf">PDF</span>](/papers/mscan-oakland25.pdf) <span class="award">Distinguished Paper Award</span>  
