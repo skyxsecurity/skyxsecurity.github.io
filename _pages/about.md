@@ -62,7 +62,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
   <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
 
-## 🤝 Other Publications
+## 🤝 Co-Authored Publications
 
 1. `CCS'25` **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications** [<span class="pdf">PDF</span>]()   
   Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, <span style="color:blue">Youkun Shi</span>, Qianheng Wang, Chenlin Wang, Zihan Lin, Min Yang.  
@@ -82,12 +82,13 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 
 # 🎖 Honors and Awards
+- *2025*, Distinguished Paper Award, 46th IEEE Symposium on Security and Privacy (S&P), 2025
 - *2024*, [Huawei TopMinds Program Offer](https://career.huawei.com/reccampportal/portal5/topminds.html)
 - *2024*, Outstanding PhD Graduates, Shanghai (Top 5%)
 - *2024*, Academic Star, Fudan University (Top 30)
 - *2022*, National Scholarship for Ph.D. Candidates (Top 0.2%)
-- *2018*, National Scholarship for B.S. Candidates (Top 0.2%)
-- *2017*, National Scholarship for B.S. Candidates (Top 0.2%)
+<!-- - *2018*, National Scholarship for B.S. Candidates (Top 0.2%) -->
+<!-- - *2017*, National Scholarship for B.S. Candidates (Top 0.2%) -->
 
 # 🏆 Skill Competitions
 - *2021*, 🏆 Champion, 6th XCTF International League (Final Round)
