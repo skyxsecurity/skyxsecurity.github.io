@@ -80,6 +80,11 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
   Presented at **BlackHat USA 2025** [[Talk Abstract](https://www.blackhat.com/us-25/briefings/schedule/#detecting-taint-style-vulnerabilities-in-microservice-structured-web-applications-46427)]  
   <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
+1. `JCCS'25` **Automated Resolution Framework for Dependency Conflict of Java Third-party Libraries** [<span class="pdf">PDF</span>](/papers/dcsolver-jccs25.pdf) 
+  XiangYu Mao, <span style="color:blue">Youkun Shi</span>, Yuan Zhang.  
+  Journal of Chinese Computer Systems, 2025.    
+  <span style="color:#B00C00">*[CCF-B](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=101647), Chinese Journal*</span>
+
 
 # 🎖 Honors and Awards
 - *2025*, Distinguished Paper Award, 46th IEEE Symposium on Security and Privacy (S&P), 2025
