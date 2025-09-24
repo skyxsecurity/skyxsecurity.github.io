@@ -124,5 +124,9 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 ## Journal Reviewing
 - ``TDSC`` [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
 
+- ``TOPS`` [ACM Transactions on Privacy and Security](https://dl.acm.org/journal/tops)
+
+
+
 
 
