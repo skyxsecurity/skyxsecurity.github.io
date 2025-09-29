@@ -29,7 +29,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 <!-- - [*2025.03*] &nbsp;🎉 One paper accepted by [**ACM CCS 2025**](https://www.sigsac.org/ccs/CCS2025/)! -->
 
 # 📖 Background
-- *2024 - now*, Postdoc, The Hong Kong Polytechnic University, Department of Computing.
+- *2024 - Present*, Postdoc, The Hong Kong Polytechnic University, Department of Computing.
 - *2019 - 2024*, Ph.D, Fudan University, School of Computer Science.
 - *2015 - 2019*, B.Eng, China University of Mining and Technology, School of Computer Science.
 
@@ -98,7 +98,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 
 # 🎖 Honors and Awards
-- *2025*, ACM SIGWEB China Distinguished Doctoral Dissertation (two winners each year)
+- *2025*, Distinguished Doctoral Dissertation, ACM SIGWEB China (Top 2)
 - *2025*, Distinguished Paper Award, 46th IEEE Symposium on Security and Privacy (S&P)
 - *2024*, [Huawei TopMinds Program Offer](https://career.huawei.com/reccampportal/portal5/topminds.html)
 - *2024*, Outstanding PhD Graduates, Shanghai (Top 5%)
