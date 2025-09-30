@@ -102,7 +102,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 - *2025*, Distinguished Paper Award, 46th IEEE Symposium on Security and Privacy (<1% submission)
 - *2024*, [Huawei TopMinds Program Offer](https://career.huawei.com/reccampportal/portal5/topminds.html)
 - *2024*, Outstanding PhD Graduates, Shanghai (Top 5%)
-- *2024*, Academic Star, Fudan University (Top 30)
+- *2024*, Academic Star, Fudan University (Top 10)
 <!-- - *2022*, National Scholarship for Ph.D. Candidates (Top 0.2%) -->
 <!-- - *2018*, National Scholarship for B.S. Candidates (Top 0.2%) -->
 <!-- - *2017*, National Scholarship for B.S. Candidates (Top 0.2%) -->
