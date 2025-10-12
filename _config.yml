@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Youkun Shi (施游堃)"
 description              : ""
-repository               : "skyxsecurity/youkunshi.github.io"
+repository               : "syksec/syksec.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "skyxsecurity"
+  github           : "syksec"
   google_plus      :
   keybase          :
   instagram        :

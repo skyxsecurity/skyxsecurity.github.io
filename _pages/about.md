@@ -82,7 +82,8 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 1. `USENIX SEC'25` **Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents** [<span class="pdf">PDF</span>](/papers/agentfuzz-security25.pdf)  
   Fengyu Liu, Yuan Zhang, Jiaqi Luo, Jiarun Dai, Tian Chen, Letian Yuan, Zhengmin Yu, <span style="color:blue">Youkun Shi</span>, Ke Li, Chengyuan Zhou, Hao Chen, Min Yang.  
-  In *Proceedings of the 34th USENIX Security Symposium (USENIX SEC)*, August, 2025.   
+  In *Proceedings of the 34th USENIX Security Symposium (USENIX SEC)*, August, 2025. 
+  Presented at **BlackHat EUROPE 2025** [[Talk Abstract](https://www.blackhat.com/eu-25/briefings/schedule/index.html#make-agent-defeat-agent-automatic-detection-of-taint-style-vulnerabilities-in-llm-based-agents-48117)]    
   <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
 1. `S&P'25` **Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications** [<span class="pdf">PDF</span>](/papers/mscan-oakland25.pdf) <span class="award">Distinguished Paper Award</span>  
@@ -126,7 +127,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 - ``TDSC`` [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
 
-- ``ToN`` [IEEE Transactions on Networking](https://www.comsoc.org/publications/journals/ieee-tnet)
+- ``TNET`` [IEEE Transactions on Networking](https://www.comsoc.org/publications/journals/ieee-tnet)
 
 - ``TOPS`` [ACM Transactions on Privacy and Security](https://dl.acm.org/journal/tops)
 
