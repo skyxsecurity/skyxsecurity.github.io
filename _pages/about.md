@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Youkun Shi is a Postdoctoral Fellow in the Department of Computing at The Hong Kong Polytechnic University, working under the supervision of *[**Prof. Daniel Xiapu Luo**](https://www4.comp.polyu.edu.hk/~csxluo/)*. He received the Ph.D. degree in June 2024 from Fudan University, advised by *[**Prof. Yuan Zhang**](https://yuanxzhang.github.io/)* and *[**Prof. Min Yang**](https://scholar.google.com/citations?user=UnKf9FIAAAAJ&hl=en)*. His research focuses on system security, especially **web security**. To date, he has published several papers in top-tier venues, including USENIX Security, IEEE S&P, ACM CCS, TIFS and TSE. He received the IEEE S&P Distinguished Paper Award (2025) and the ACM SIGWEB China Distinguished Doctoral Prize (2025). His research has been adopted by leading companies, including Alibaba and Huawei, and has been acknowledged in security advisories from major companies such as Google, Apache, and IBM.
+Youkun Shi is a Postdoctoral Fellow in the Department of Computing at The Hong Kong Polytechnic University, working under the supervision of *[**Prof. Daniel Xiapu Luo**](https://www4.comp.polyu.edu.hk/~csxluo/)*. He received the Ph.D. degree in June 2024 from Fudan University, advised by *[**Prof. Yuan Zhang**](https://yuanxzhang.github.io/)* and *[**Prof. Min Yang**](https://scholar.google.com/citations?user=UnKf9FIAAAAJ&hl=en)*. His research focuses on system security, especially **web security**. To date, he has published several papers in top-tier venues, including USENIX Security, IEEE S&P, ACM CCS, TIFS and TSE. He received the IEEE S&P Distinguished Paper Award (2025), ACM CCS Distinguished Paper Award (2025) and the ACM SIGWEB China Distinguished Doctoral Dissertation Prize (2025). His research has been adopted by leading companies, including Alibaba and Huawei, and has been acknowledged in security advisories from major companies such as Google, Apache, and IBM.
 
 Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, named Whitzard. The team has participated in numerous prestigious world-wide CTF competitions, achieving commendable rankings.
 
@@ -75,7 +75,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 ## 🤝 Co-Authored Publications
 
-1. `CCS'25` **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications** [<span class="pdf">PDF</span>]()   
+1. `CCS'25` **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications** [<span class="pdf">PDF</span>]() <span class="award">Distinguished Paper Award</span>  
   Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, <span style="color:blue">Youkun Shi</span>, Qianheng Wang, Chenlin Wang, Zihan Lin, Min Yang.  
   In *Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS)*, October 2025.   
   <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
@@ -100,6 +100,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 # 🎖 Honors and Awards
 - *2025*, Distinguished Doctoral Dissertation, ACM SIGWEB China (Top 2)
+- *2025*, Distinguished Paper Award, 32nd ACM Conference on Computer and Communications Security (<1% submission)
 - *2025*, Distinguished Paper Award, 46th IEEE Symposium on Security and Privacy (<1% submission)
 - *2024*, [Huawei TopMinds Program Offer](https://career.huawei.com/reccampportal/portal5/topminds.html)
 - *2024*, Outstanding PhD Graduates, Shanghai (Top 5%)
