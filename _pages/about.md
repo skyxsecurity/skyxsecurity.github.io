@@ -22,6 +22,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 # 🔥 News
 - [*2025.10*] &nbsp;🎉 Our broken access control detection work on web apps received <span style="color:#B00C00">**Distinguished Paper Award**</span> at **ACM CCS 2025**!
+- [*2025.10*] &nbsp;🎉 One talk accepted by [**BlackHat EUROPE 2025**](https://www.blackhat.com/eu-25/)!
 - [*2025.09*] &nbsp;🎉 I have been awarded the <span style="color:#B00C00">**2025 ACM SIGWEB China Distinguished Doctoral Dissertation**</span>!
 - [*2025.09*] &nbsp;🎉 Two papers accepted by [**TIFS**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) and [**TSE**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)! 
 - [*2025.06*] &nbsp;🎉 Two papers accepted by [**USENIX Security 2025**](https://www.usenix.org/conference/usenixsecurity25)! 
@@ -101,8 +102,8 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 # 🎖 Honors and Awards
 - *2025*, Distinguished Doctoral Dissertation, ACM SIGWEB China (Top 2)
-- *2025*, Distinguished Paper Award, 32nd ACM Conference on Computer and Communications Security (<1% submission)
-- *2025*, Distinguished Paper Award, 46th IEEE Symposium on Security and Privacy (<1% submission)
+- *2025*, Distinguished Paper Award, 32nd ACM Conference on Computer and Communications Security (CCS, 2025)
+- *2025*, Distinguished Paper Award, 46th IEEE Symposium on Security and Privacy (S&P, 2025)
 - *2024*, [Huawei TopMinds Program Offer](https://career.huawei.com/reccampportal/portal5/topminds.html)
 - *2024*, Outstanding PhD Graduates, Shanghai (Top 5%)
 - *2024*, Academic Star, Fudan University (Top 10)
