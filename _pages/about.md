@@ -39,12 +39,12 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 ## 👍🏻 Lead Publications
 
-1. `TIFS'25` **Facilitating Access Control Vulnerability Detection in Modern Java Web Applications with Accurate Permission Check Identification** [<span class="pdf">PDF</span>]()     
+1. `TIFS'25` **Facilitating Access Control Vulnerability Detection in Modern Java Web Applications with Accurate Permission Check Identification** [<span class="pdf">PDF</span>](https://ieeexplore.ieee.org/document/11180138/)     
   <span style="color:blue">Youkun Shi</span>, Fengyu Liu, Guangliang Yang, Yuan Zhang, Yinzhi Cao, Enhao Li, Xin Tan, Xiapu Luo, Min Yang, Siyi Chen.   
   In *IEEE Transactions on Information Forensics and Security*, 2025.   
   <span style="color:#B00C00">*CCF-A, Top Security Journal*</span>
 
-1. `TSE'25` **PHPJoy: A Novel Extended Graph-based PHP Code Analysis Framework** [<span class="pdf">PDF</span>]()     
+1. `TSE'25` **PHPJoy: A Novel Extended Graph-based PHP Code Analysis Framework** [<span class="pdf">PDF</span>](https://ieeexplore.ieee.org/document/11181216)     
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhan Luo, Guangliang Yang, Shengke Ye, Chengyu Yang, Fengyu Liu, Xiapu Luo, Min Yang.   
   In *IEEE Transactions on Software Engineering*, 2025.   
   <span style="color:#B00C00">*CCF-A, Top Software Engineering Journal*</span>
@@ -77,7 +77,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 ## 🤝 Co-Authored Publications
 
-1. `CCS'25` **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications** [<span class="pdf">PDF</span>]() <span class="award">Distinguished Paper Award</span>  
+1. `CCS'25` **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications** [<span class="pdf">PDF</span>](/papers/bacscan-ccs25.pdf) <span class="award">Distinguished Paper Award</span>  
   Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, <span style="color:blue">Youkun Shi</span>, Qianheng Wang, Chenlin Wang, Zihan Lin, Min Yang.  
   In *Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS)*, October 2025.   
   <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
